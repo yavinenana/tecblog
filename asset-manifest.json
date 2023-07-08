@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tecblog/static/css/main.073c9b0a.css",
+    "main.js": "/tecblog/static/js/main.2fed6d52.js",
+    "static/media/logo.svg": "/tecblog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tecblog/index.html",
+    "main.073c9b0a.css.map": "/tecblog/static/css/main.073c9b0a.css.map",
+    "main.2fed6d52.js.map": "/tecblog/static/js/main.2fed6d52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2fed6d52.js"
+  ]
+}
